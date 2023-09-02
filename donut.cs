@@ -1,7 +1,7 @@
 using System;
 using System.Threading;
 
-class Programy
+class Program
 {
     static void Main(string[] args)
     {
